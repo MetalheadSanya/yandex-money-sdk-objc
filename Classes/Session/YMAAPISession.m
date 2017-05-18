@@ -5,7 +5,6 @@
 
 #import "YMAAPISession.h"
 #import "YMAHostsProvider.h"
-#import "../../../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
